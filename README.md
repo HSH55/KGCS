@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 
+📄 **Paper**: [https://doi.org/10.1109/TGRS.2026.3670221](https://doi.org/10.1109/TGRS.2026.3670221)
+
 **K**nowledge-**G**uided **C**ollaborative **S**ystem (**KGCS**) is a zero-annotation framework for aerial object detection that integrates structured expert knowledge with frozen foundation models.
 
 > 🚧 **Code Coming Soon**
