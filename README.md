@@ -58,7 +58,7 @@ Ensure your environment meets the following requirements:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/KGCS.git
+   git clone https://github.com/HSH55/KGCS.git
    cd KGCS
    ```
 
